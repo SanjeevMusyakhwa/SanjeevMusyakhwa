@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @SanjeevMusyakhwa
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Sanjeev!
 
-<!---
-SanjeevMusyakhwa/SanjeevMusyakhwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Developer | Problem Solver | Lifelong Learner
+
+🌱 Currently diving deep into Django to build full-stack web applications and master the art of scalable, efficient code.
+
+🔍 Always exploring new technologies and frameworks, with a special interest in Python, web development, and cloud services.
+
+🛠️ What I'm working on:
+
+Building a personal project using Django
+Contributing to open-source initiatives
+Learning the best practices for DevOps and containerization with Docker
+💡 Looking to collaborate on:
+
+Open-source Django projects
+Full-stack web applications
+
+📫 How to reach me:
+
+Email
+LinkedIn
+Twitter
+⚡ Fun Fact:
