@@ -1,24 +1,23 @@
 👋 Hi, I'm Sanjeev!
+🚀 Developer | 🧩 Problem Solver | 📚 Lifelong Learner
 
-🚀 Developer | Problem Solver | Lifelong Learner
+🌟 About Me
+🔹 Passionate about crafting elegant, scalable, and efficient web solutions.
+🔹 Currently diving deep into Django to master full-stack web development.
+🔹 Constantly exploring Python, web development, and cloud technologies to stay ahead in the tech game.
 
-🌱 Currently diving deep into Django to build full-stack web applications and master the art of scalable, efficient code.
+🛠️ What I'm Working On
+🚧 Building a personal project with Django to enhance my skills.
+🌐 Actively contributing to open-source projects.
+🌱 Learning DevOps best practices and exploring containerization with Docker.
+💡 Looking to Collaborate On
+✨ Open-source Django projects
+✨ Full-stack web applications
+✨ Anything innovative and fun in web development or cloud services
 
-🔍 Always exploring new technologies and frameworks, with a special interest in Python, web development, and cloud services.
-
-🛠️ What I'm working on:
-
-Building a personal project using Django
-Contributing to open-source initiatives
-Learning the best practices for DevOps and containerization with Docker
-💡 Looking to collaborate on:
-
-Open-source Django projects
-Full-stack web applications
-
-📫 How to reach me:
-
-Email
-LinkedIn
-Twitter
-⚡ Fun Fact:
+📫 How to Reach Me
+📧 Email: sanjeevmusyakhwa@gmail.com
+💼 LinkedIn: linkedin.com/in/sanjeev-musyakhwo/
+🌐 Website: sanjeevmusyakhwo.com.np
+⚡ Fun Fact
+I’m a firm believer that every line of code tells a story—so let’s make ours impactful! 🌟
